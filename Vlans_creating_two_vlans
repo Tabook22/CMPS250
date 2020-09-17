@@ -1,3 +1,13 @@
+in this example we are going to create two vlans "HR" and "Accounting",
+we have six computers, computer1,2,3 will be connected to vlan HR, the other computers 4,5,6 will be connected to vlan Accounting
+the IP address are:
+
+computer 1: 192.168.1.2
+computer 1: 192.168.1.3
+computer 1: 192.168.1.4
+computer 1: 192.168.1.5
+computer 1: 192.168.1.6
+computer 1: 192.168.1.7
 
 
 
