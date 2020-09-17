@@ -1,0 +1,6 @@
+
+This prevents switch from hanging up when you create a wrong command
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Switch(config)#no ip domain-lookup
+Switch(config)#
