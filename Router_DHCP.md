@@ -25,4 +25,4 @@ Nasser-Router(config)#exit
 Nasser-Router#w 
 
 
-!()[images/Dhcp_Router.png]
+![](images/Dhcp_Router.png)
