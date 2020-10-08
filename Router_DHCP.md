@@ -23,3 +23,6 @@ Nasser-Router(dhcp-config)#domain-name nasser.com
 Nasser-Router(dhcp-config)#ip dhcp excluded-address 192.168.1.1 192.168.1.10
 Nasser-Router(config)#exit
 Nasser-Router#w 
+
+
+!()[images/Dhcp_Router.png]
