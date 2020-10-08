@@ -12,7 +12,7 @@ Nasser-Router(config-if)#ip address 192.168.1.1 255.255.255.0
 Nasser-Router(config-if)#no sh
 Nasser-Router(config-if)#no shutdown 
 
-**** Configur DHCP 
+## Configur DHCP
 Router#configur t
 Nasser-Router(config)#service dhcp
 Nasser-Router(config)#ip dhcp pool Net-Pool
