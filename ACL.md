@@ -1,4 +1,4 @@
-### ACL
+# ACL
 A network access control list (ACL), is an extra layer of security, that acts as a firewall for controlling and filtering traffic in and out of one or more subnets (e.g., router and layer 3 switche).<br>
 we can think about it as set of rules defined for controlling the network traffic and reducing network attack<br>
 
